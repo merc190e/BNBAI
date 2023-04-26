@@ -1,1 +1,1 @@
-# BNBAI
+# EthAI
